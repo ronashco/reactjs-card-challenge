@@ -26,6 +26,7 @@ You can choose your desired template, icon and color for each theme.
 
 Use the following URL to initialize the card list: [http://static.pushe.co/challenge/json](http://static.pushe.co/challenge/json).
 Application state and data, fetched from the server, should be managed by **Redux**.
+Write your unit tests using **Jest** for at least your reducer(s) and action generators. Use unit test best practices at your own discretion.
 
 User is able to edit the title and description text on the cards and save it (just saved it locally, 
 no need to send the saved data to the server). After hitting 'Try' button several times, when visiting the 
@@ -33,17 +34,16 @@ same card again: the saved text should be shown instead of the original server t
 
 ## Expectations
 
-We expect a clean, readable and maintainable code with meaningful comments and js docs.
-
-## Estimation
-
-After reading and understanding the challenge and all of expectations, estimate the challenge 
-development cost, send us your time cost estimation and your reasoning on how you've estimated 
-this. **Please do not start development before getting a confirmation from us**.
+We expect a clean, readable and maintainable code with meaningful comments.
 
 ## Task
 
-1. Fork this repository (if you don't know how to do that, Google is your friend)
+1. Either clone or private fork this repository (if you don't know how to do that, Google is your friend)
 2. Develop the given challenge
 3. Commit and Push your code to your new repository
-3. Send us a pull request, we will review your code and get back to you
+3. Send us an email and notify us of completion! We'll take care about the rest and get back to you.
+
+**Please do not start development before getting a confirmation from us**.
+
+Happy Coding! ✊🏻
+
