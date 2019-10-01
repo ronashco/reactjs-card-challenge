@@ -34,7 +34,10 @@ same card again: the saved text should be shown instead of the original server t
 
 ## Expectations
 
-We expect a clean, readable and maintainable code with meaningful comments.
+1. We expect a **clean**, **readable** and **maintainable** code with **meaningful comments**.
+2. It would be better if the project uses a **bundle tools** like **Webpack** or parcel.
+3. Although this is a small test project, complete it with the **mindset of a big project**. (then **structres** and **naming** of the files are very important)
+4. As mentioned above it is more valuable to us that the project comes with **unit tests**
 
 ## Task
 
